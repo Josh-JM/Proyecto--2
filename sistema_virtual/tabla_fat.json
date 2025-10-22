@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2197c59b-99a7-4607-b0b9-be7a00fbf73e",
+    "nombre": "prueba",
+    "ruta_datos": "c:\\Users\\josue\\OneDrive\\Documents\\University\\Semesters\\Fourth Semester\\Manejo e Implementación de Archivos\\Proyecto #2\\sistema_virtual\\bloques\\b7f446de-fd6e-4ca0-bccc-4eefc460c433.json",
+    "papelera": false,
+    "tamano": 10,
+    "fecha_creacion": "2025-10-22 09:45:56",
+    "fecha_modificacion": "2025-10-22 11:32:28",
+    "fecha_eliminacion": null,
+    "propietario": "admin",
+    "permisos": {
+      "admin": {
+        "lectura": true,
+        "escritura": true
+      },
+      "josh": {
+        "lectura": false,
+        "escritura": false
+      },
+      "fatima": {
+        "lectura": true,
+        "escritura": true
+      }
+    }
+  },
+  {
+    "id": "ea2fe8d6-1935-41d3-883a-ad8e5e76560a",
+    "nombre": "prueba 24",
+    "ruta_datos": "c:\\Users\\josue\\OneDrive\\Documents\\University\\Semesters\\Fourth Semester\\Manejo e Implementación de Archivos\\Proyecto #2\\sistema_virtual\\bloques\\681216ed-b0b4-4b53-83f4-dcdc7006ee4f.json",
+    "papelera": false,
+    "tamano": 18,
+    "fecha_creacion": "2025-10-22 11:30:34",
+    "fecha_modificacion": "2025-10-22 11:30:34",
+    "fecha_eliminacion": null,
+    "propietario": "josh",
+    "permisos": {
+      "josh": {
+        "lectura": true,
+        "escritura": true
+      }
+    }
+  }
+]
